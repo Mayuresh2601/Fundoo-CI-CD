@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-12T14:51:15 IST" name="Default suite" finished-at="2019-12-12T14:51:29 IST" duration-ms="14674">
+    <groups>
+    </groups>
+    <test started-at="2019-12-12T14:51:15 IST" name="Default test" finished-at="2019-12-12T14:51:29 IST" duration-ms="14674">
+      <class name="com.bridgelabz.fundoo.restassured.ServiceImplRestAssuredTest">
+        <test-method signature="addUserApiTest()[pri:0, instance:com.bridgelabz.fundoo.restassured.ServiceImplRestAssuredTest@7c469c48]" started-at="2019-12-12T14:51:15 IST" name="addUserApiTest" finished-at="2019-12-12T14:51:25 IST" duration-ms="9730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserApiTest -->
+        <test-method signature="forgetPasswordTest()[pri:0, instance:com.bridgelabz.fundoo.restassured.ServiceImplRestAssuredTest@7c469c48]" started-at="2019-12-12T14:51:25 IST" name="forgetPasswordTest" finished-at="2019-12-12T14:51:29 IST" duration-ms="4640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPasswordTest -->
+        <test-method signature="loginApiTest()[pri:0, instance:com.bridgelabz.fundoo.restassured.ServiceImplRestAssuredTest@7c469c48]" started-at="2019-12-12T14:51:29 IST" name="loginApiTest" finished-at="2019-12-12T14:51:29 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApiTest -->
+        <test-method signature="resetPasswordTest()[pri:0, instance:com.bridgelabz.fundoo.restassured.ServiceImplRestAssuredTest@7c469c48]" started-at="2019-12-12T14:51:29 IST" name="resetPasswordTest" finished-at="2019-12-12T14:51:29 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetPasswordTest -->
+        <test-method signature="searchAllUserApiTest()[pri:0, instance:com.bridgelabz.fundoo.restassured.ServiceImplRestAssuredTest@7c469c48]" started-at="2019-12-12T14:51:29 IST" name="searchAllUserApiTest" finished-at="2019-12-12T14:51:29 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAllUserApiTest -->
+        <test-method signature="searchUserApiTest()[pri:0, instance:com.bridgelabz.fundoo.restassured.ServiceImplRestAssuredTest@7c469c48]" started-at="2019-12-12T14:51:29 IST" name="searchUserApiTest" finished-at="2019-12-12T14:51:29 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUserApiTest -->
+      </class> <!-- com.bridgelabz.fundoo.restassured.ServiceImplRestAssuredTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
