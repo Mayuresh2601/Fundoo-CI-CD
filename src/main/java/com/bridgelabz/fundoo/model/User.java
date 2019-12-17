@@ -40,7 +40,7 @@ public class User {
 	@NotBlank(message = "description is mandatory")
 	private String emailId;
 
-
+	//Mobile Number in Long Data Type
 	private long mobileNumber;
 
 	@NotBlank(message = "Password is mandatory")
